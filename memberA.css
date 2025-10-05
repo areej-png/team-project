@@ -10,3 +10,12 @@ body{
     padding: 20px;
     line-height: 1.6;
 }
+h1{
+    color: #46484b;
+    margin-bottom: 10px;
+    text-align: center;
+}   
+p{
+    margin-bottom: 15px;
+    font-size: 16px;
+}
